@@ -1,0 +1,15 @@
+2024/05/04-18:15:00.974 1bd4 Reusing MANIFEST C:/Users/chepu/OneDrive/Рабочий стол/absolut/andr/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/04-18:15:00.974 1bd4 Recovering log #11
+2024/05/04-18:15:00.975 1bd4 Reusing old log C:/Users/chepu/OneDrive/Рабочий стол/absolut/andr/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000011.log 
+2024/05/04-18:28:24.211 144c Level-0 table #15: started
+2024/05/04-18:28:24.586 144c Level-0 table #15: 190 bytes OK
+2024/05/04-18:28:24.693 144c Delete type=0 #11
+2024/05/04-18:28:24.702 1930 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/05/04-18:28:24.702 1930 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 58 : 1
+2024/05/04-18:28:24.715 1930 Compacting 1@1 + 1@2 files
+2024/05/04-18:28:25.061 1930 Generated table #16@1: 18 keys, 534 bytes
+2024/05/04-18:28:25.061 1930 Compacted 1@1 + 1@2 files => 534 bytes
+2024/05/04-18:28:25.263 1930 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/04-18:28:25.263 1930 Delete type=2 #9
+2024/05/04-18:28:25.263 1930 Delete type=2 #15
+2024/05/04-18:28:25.302 1930 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 58 : 1 .. (end); will stop at (end)

@@ -1,0 +1,8 @@
+2024/05/04-18:28:31.337 18e8 Reusing MANIFEST C:/Users/chepu/OneDrive/Рабочий стол/absolut/andr/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/04-18:28:31.337 18e8 Recovering log #14
+2024/05/04-18:28:31.338 18e8 Reusing old log C:/Users/chepu/OneDrive/Рабочий стол/absolut/andr/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000014.log 
+2024/05/04-19:50:23.879 1910 Level-0 table #19: started
+2024/05/04-19:50:23.880 1910 Level-0 table #19: 0 bytes OK
+2024/05/04-19:50:24.006 1910 Delete type=0 #14
+2024/05/04-19:50:24.025 1910 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/05/04-19:50:24.025 1910 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

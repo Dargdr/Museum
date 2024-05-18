@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-andr.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\chepu\OneDrive\Рабочий стол\absolut\andr\Intermediate\Build\Win64\x64\andrEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\chepu\OneDrive\Рабочий стол\absolut\andr\Intermediate\Build\Win64\x64\UnrealEditor\Development\andr\AMyPlayerCharacter.cpp.obj"
+"C:\Users\chepu\OneDrive\Рабочий стол\absolut\andr\Intermediate\Build\Win64\x64\UnrealEditor\Development\andr\andr.cpp.obj"
+"C:\Users\chepu\OneDrive\Рабочий стол\absolut\andr\Intermediate\Build\Win64\x64\UnrealEditor\Development\andr\Default.rc2.res"
+/OUT:"C:\Users\chepu\OneDrive\Рабочий стол\absolut\andr\Intermediate\Build\Win64\x64\UnrealEditor\Development\andr\UnrealEditor-andr.lib"
